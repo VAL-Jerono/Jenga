@@ -107,7 +107,7 @@ Input → Model → Output → Feedback
 
 ---
 
-## ✅ Final Summary
+## Final Summary
 
 | Stage               | Core Focus                                   |
 |--------------------|-----------------------------------------------|
